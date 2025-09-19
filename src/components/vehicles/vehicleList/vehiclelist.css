@@ -1,0 +1,52 @@
+.vehiclelist {
+  background-color: #f6f6f6;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  padding: 24px;
+}
+
+.vehiclelist-header {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 24px 0 24px;
+}
+
+.vehiclelist-title {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 28px;
+  color: #0e0e0e;
+}
+
+.vehicle-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  background-color: #fff;
+  padding: 24px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.vehicle-img {
+  width: 158px;
+  height: 224px;
+  object-fit: cover;
+}
+
+.vehicle-name {
+  text-decoration: none;
+  color: #292c33;
+  font-weight: 600;
+  font-size: 24px;
+  padding-bottom: 8px;
+}
+
+.vehicle-content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
