@@ -19,7 +19,7 @@
 
   Clone the repository and install dependencies:
 
-  git clone https://github.com/your-username/star-wars-catalogue.git
+  git clone https://github.com/hollosyzsuzsi/starwars-catalogue.git
   cd star-wars-catalogue
   npm install
 
@@ -60,3 +60,4 @@
   ESLint + Prettier for linting and formatting
 
  
+
