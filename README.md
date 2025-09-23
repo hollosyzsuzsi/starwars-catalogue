@@ -22,17 +22,6 @@
   git clone https://github.com/hollosyzsuzsi/starwars-catalogue.git
   cd star-wars-catalogue
   npm install
-
-🛠 Scripts
-  Command	Description
-  npm run build -	Build the project with Webpack
-  npm start	Run - dev server with live reload
-  npm run devServer -	Run JSON mock server (db.json)
-  npm run dev -	Run both Webpack dev server & JSON server concurrently
-  npm run lint - Run ESLint checks
-  npm run lint:fix - Fix ESLint issues
-  npm run prettier -	Check formatting
-  npm run format -	Auto-format with Prettier
  
 ⚙️ Development
 
@@ -60,4 +49,5 @@
   ESLint + Prettier for linting and formatting
 
  
+
 
